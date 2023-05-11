@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+    t
+}
+
+h3{
+    color: red;
+
+}
+
+.bl{
+
+    color: black;
+}
+
+#gr{
+    color: green !important; 
+}
+
+h3{
+   margin: 0;
+   padding: 0;
+}
